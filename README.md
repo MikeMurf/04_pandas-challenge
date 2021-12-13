@@ -9,7 +9,7 @@ The full details of the brief can be found at: - https://monash.bootcampcontent.
 
 The Files providing the solution to the Python Challenge are the following.
 1.	"PyCitySchools_mm" contains the Python / Pandas code for the PyCitySchools part of the challenge.
-2.	" PyCitySchools_analysis_mm” contains the analysis of the observable trends of the data and some commentary on potential further analysis.
+2.	" PyCitySchools_analysis_mm” contains the analysis of the observable trends of the data and some commentary on potential further analysis direction.
 
 The datasets required for the analysis can be found at the following link. https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/04-Pandas/Instructions/PyCitySchools/Resources
 
